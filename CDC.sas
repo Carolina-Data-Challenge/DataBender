@@ -22,7 +22,7 @@ _2017 _2018 _2019 _2020 _2021;
 run;
 proc print data=new_econ(obs=100);
 run;
-data newecon2;
+data biosdata.newecon2;
 set new_econ;
 rename _NAME_ = Date;
 run;
