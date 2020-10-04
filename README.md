@@ -10,7 +10,8 @@ Specifically, to submit your project you will be required to complete the follow
 ---
 
 **PASTE PUBLIC VIDEO LINK HERE: https://ncsu.zoom.us/rec/share/mnS9-LKFnvadgnAhHwu7BGUsSQyK7pqvn9r4hcthgWM-6HInH1MjeOh-oXsCGExI.mULqTWoROJMxqbOi?startTime=1601826787000 **
-
+https://ncsu.zoom.us/rec/share/OcgDwuNv-ZAno4cpCTaFx0OXFTLcFG6Khu-nxeSLb-bZ2HAVFitzcjmn-Av04lPT.tnszztLKM3QByzQs
+Password: ^I&TUu9&
 ---
 
 If you have any questions during the, either technical or logistical, be sure to reach out to a mentor and/or a director for assistance!
