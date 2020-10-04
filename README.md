@@ -9,7 +9,7 @@ Specifically, to submit your project you will be required to complete the follow
 
 ---
 
-**PASTE PUBLIC VIDEO LINK HERE: ___________________________**
+**PASTE PUBLIC VIDEO LINK HERE: https://mediasite.wolfware.ncsu.edu/online/Play/4ef068f6f76d4ed2999d6b39140b14931d**
 
 ---
 
